@@ -6,6 +6,6 @@ public abstract class Trial {
 		super();
 	}
 
-	public abstract void pass();
+	public abstract void showAnswers();
 
 }
